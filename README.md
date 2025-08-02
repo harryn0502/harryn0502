@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harryn Oh</h1>
-<h3 align="center">A Software Engineer from United Kingdom</h3>
+<h3 align="center">A ML / Software Engineer from United Kingdom</h3>
 
-- 🔭 I’m currently working on **4D Gaussian Splattings**
+- 🔭 I’m currently working on **Generative AI**
 
-- 👯 I’m currently collaborateing on **SAE for LLMs**
+- 🌱 I’m currently learning **ML, Computer Graphics**
 
 - 🎓 I’m in my **Final Year at MEng Computer Science at UCL**
 
@@ -15,4 +15,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=aws,bash,blender,c,cs,cpp,css,django,docker,figma,gcp,git,haskell,html,java,js,laravel,linux,mysql,nginx,nodejs,php,postgresql,postman,python,pytorch,react,redux,sqlite,ts,unity,unreal,webpack" />
+<img src="https://skillicons.dev/icons?i=aws,bash,blender,c,cs,cpp,css,django,docker,figma,gcp,git,haskell,html,java,js,laravel,linux,mysql,nginx,nodejs,php,postgresql,postman,python,pytorch,react,redux,sqlite,swift,ts,unity,unreal,webpack" />
