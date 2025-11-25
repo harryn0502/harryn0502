@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ML, Computer Graphics**
 
-- 🎓 I’m in my **Final Year at MEng Computer Science at UCL**
+- 🎓 I just graduated from **MEng Computer Science at UCL**
 
 - 📫 How to reach me **ohharryn0502@gmail.com**
 
