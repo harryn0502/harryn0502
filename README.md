@@ -17,4 +17,4 @@
 </p>
 
 <h3 align="left">Languages & Tools</h3>
-<img src="https://skillicons.dev/icons?i=c,cs,cpp,css,haskell,html,java,javascript,latex,markdown,php,python,swift,typescript,aws,firebase,gcp,anaconda,django,fastapi,laravel,npm,react,redux,vite,firebase,mysql,postgres,redis,sqlite,photoshop,blender,figma,sketchup,pytorch,git,github,linux,windows,bash,docker,nginx,nodejs,postman,unity,unreal,vscode" />
+<img src="https://skillicons.dev/icons?i=c,cs,cpp,css,haskell,html,java,javascript,latex,markdown,php,python,swift,typescript,aws,firebase,gcp,anaconda,django,fastapi,laravel,npm,react,redux,vite,firebase,mysql,postgres,redis,sqlite,photoshop,blender,figma,sketchup,pytorch,git,github,apple,linux,windows,bash,docker,nginx,nodejs,postman,unity,unreal,vscode" />
